@@ -1,5 +1,11 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
+#include <QMainWindow>
+#include <QFileDialog>
+#include <QPainter>
+#include <cmath>
+#include <algorithm>
+#include <QTransform>
 
 using namespace std;
 
