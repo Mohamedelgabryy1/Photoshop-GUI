@@ -7,6 +7,8 @@
 #include <cmath>
 #include <algorithm>
 #include <QTransform>
+#include <QColorDialog>
+#include <QColor>
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
